@@ -2,12 +2,12 @@
 
 ## Installing our tools
 ### Java Software Development Kit (JDK)
-1. Go the [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html)
+1. Go the [here](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 2. Click the circle for "Accept License Agreement"
 3. Click the download for either macOS or Windows corresponding to your computer. 4. Since we are using macbook so we pick Mac OS X x64.
 In your downloads folder, open the installer and progress through it as normal. 
 
-* [Download_SDK_1](images/Download_SDK_1.png)
+* ![Download_SDK_1](images/Download_SDK_1.png)
 * ![Download_SDK_2](images/Download_SDK_2.png)
     
 ### Is Java installed successfully?
