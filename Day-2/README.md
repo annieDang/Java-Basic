@@ -5,6 +5,5 @@
 ## To use arithmetic operators.
 ## To write decision-making statements.
 ## To use relational and equality operators.
-## Basic UI
 ## HOMEWORK
 

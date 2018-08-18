@@ -1,4 +1,4 @@
-package Day_2.BasicUI;
+package Day_3;
 
 //Basic input with a dialog box.
 import javax.swing.JOptionPane;

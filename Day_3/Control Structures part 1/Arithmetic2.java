@@ -1,11 +1,11 @@
-package Day_2.review;
+package Day_3;
 
 import java.util.Scanner;
 
 /*
  * 
  */
-public class Arithmetic {
+public class Arithmetic2 {
 
 	public static void main(String[] args) {
 		// create a scanner to obtain input from the command window
