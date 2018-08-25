@@ -3,6 +3,6 @@ https://docs.google.com/presentation/d/1BLjRi43wMa1XCcgIxnB6yXQknURHWtVRimIcs96W
 
 ## Review
 ## Introduction object class
-## More with repition While|For|If|Else
+## More with repetition While|For|If|Else
 ## Introduction Switch
 
