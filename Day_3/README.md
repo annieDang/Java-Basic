@@ -5,5 +5,5 @@ https://docs.google.com/presentation/d/1BLjRi43wMa1XCcgIxnB6yXQknURHWtVRimIcs96W
 ## Introduction about organizing source code
 ## How to use method (function)
 ## More about selection statement if/else
-## Introduce repition While
+## Introduce repetition While
 

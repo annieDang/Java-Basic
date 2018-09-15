@@ -1,5 +1,3 @@
-package Day_5;
-
 // Printing multiple lines in dialog box.
 import javax.swing.JOptionPane;
 
