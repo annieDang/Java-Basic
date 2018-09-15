@@ -1,4 +1,4 @@
-package Day_6;
+package Day_6.basicUi;
 
 // Demonstrates drawing different shapes.
 import java.awt.Graphics;

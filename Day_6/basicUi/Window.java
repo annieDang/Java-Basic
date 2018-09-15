@@ -1,4 +1,4 @@
-package Day_6;
+package Day_6.basicUi;
 
 import javax.swing.JFrame;
 
