@@ -4,12 +4,6 @@ import javax.swing.JOptionPane;
 
 public class AreYouCrazyV2 {
 	public static void main(String args[]) {
-		boolean areYouNut = false;
-		if (areYouNut) {
-			System.out.println("Oh...No! Please see a doctor!");
-		} else {
-			System.out.println("Nice! I was worried that you are.");
-		}
 		String answer = JOptionPane.showInputDialog("Are you nut? Type Y or N");
 		
 		String responseMessage;
