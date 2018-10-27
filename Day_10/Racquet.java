@@ -1,4 +1,4 @@
-package Day_9;
+package Day_10;
 
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
